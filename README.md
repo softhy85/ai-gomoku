@@ -12,13 +12,22 @@ For building this project you need python, the lastest is the best : [install it
 You just need to run the file "pbrain-gomoku-ai.py"
 
 Linux:
+
 By given him autorisation and run it
 
 ```
 chmod +x pbrain-gomoku-ai.py
 ./pbrain-gomoku-ai.py
 ```
+or with makefile
+
+```
+make
+./pbrain-gomoku-ai
+```
+
 Windows:
+
 By run it with python
 ```
 py pbrain-gomoku-ai.py
